@@ -1,0 +1,250 @@
+{"title":"Nayakan","rating":"8.5"} 
+{"title":"C/o Kancharapalem","rating":"8.5"} 
+{"title":"Manichitrathazhu","rating":"8.5"} 
+{"title":"Kireedam","rating":"8.5"} 
+{"title":"Golmaal","rating":"8.5"} 
+{"title":"Apur Sansar","rating":"8.5"} 
+{"title":"Pariyerum Perumal","rating":"8.5"} 
+{"title":"Thevar Magan","rating":"8.4"} 
+{"title":"Kumbalangi Nights","rating":"8.4"} 
+{"title":"Pather Panchali","rating":"8.4"} 
+{"title":"Soorarai Pottru","rating":"8.4"} 
+{"title":"96","rating":"8.4"} 
+{"title":"#Home","rating":"8.4"} 
+{"title":"3 Idiots","rating":"8.4"} 
+{"title":"Visaaranai","rating":"8.4"} 
+{"title":"Natsamrat","rating":"8.4"} 
+{"title":"Taare Zameen Par","rating":"8.3"} 
+{"title":"Asuran","rating":"8.3"} 
+{"title":"Drishyam 2","rating":"8.3"} 
+{"title":"Kaithi","rating":"8.3"} 
+{"title":"Thalapathi","rating":"8.3"} 
+{"title":"Dangal","rating":"8.3"} 
+{"title":"Sarpatta Parambarai","rating":"8.3"} 
+{"title":"Jersey","rating":"8.3"} 
+{"title":"Aparajito","rating":"8.3"} 
+{"title":"Jaane Bhi Do Yaaro","rating":"8.3"} 
+{"title":"Pyaasa","rating":"8.3"} 
+{"title":"Peranbu","rating":"8.3"} 
+{"title":"Vada Chennai","rating":"8.3"} 
+{"title":"Ratsasan","rating":"8.3"} 
+{"title":"Guide","rating":"8.3"} 
+{"title":"Thani Oruvan","rating":"8.3"} 
+{"title":"Kannathil Muthamittal","rating":"8.2"} 
+{"title":"Spadikam","rating":"8.2"} 
+{"title":"Iruvar","rating":"8.2"} 
+{"title":"Agent Sai Srinivasa Athreya","rating":"8.2"} 
+{"title":"Chupke Chupke","rating":"8.2"} 
+{"title":"Super Deluxe","rating":"8.2"} 
+{"title":"Mahanati","rating":"8.2"} 
+{"title":"Devasuram","rating":"8.3"} 
+{"title":"Khosla Ka Ghosla!","rating":"8.2"} 
+{"title":"Pudhu Pettai","rating":"8.2"} 
+{"title":"Drishyam","rating":"8.2"} 
+{"title":"Tumbbad","rating":"8.2"} 
+{"title":"Anniyan","rating":"8.2"} 
+{"title":"Premam","rating":"8.2"} 
+{"title":"Vikram Vedha","rating":"8.2"} 
+{"title":"Mudhalvan","rating":"8.2"} 
+{"title":"Kaakkaa Muttai","rating":"8.2"} 
+{"title":"Bangalore Days","rating":"8.2"} 
+{"title":"Satya","rating":"8.2"} 
+{"title":"Angoor","rating":"8.2"} 
+{"title":"Papanasam","rating":"8.2"} 
+{"title":"Andhadhun","rating":"8.2"} 
+{"title":"Soodhu Kavvum","rating":"8.2"} 
+{"title":"Dhuruvangal Pathinaaru","rating":"8.2"} 
+{"title":"Shahid","rating":"8.2"} 
+{"title":"Anand","rating":"8.2"} 
+{"title":"Mandela","rating":"8.2"} 
+{"title":"Pithamagan","rating":"8.2"} 
+{"title":"Jigarthanda","rating":"8.1"} 
+{"title":"Gangs of Wasseypur","rating":"8.1"} 
+{"title":"Paan Singh Tomar","rating":"8.1"} 
+{"title":"Bhaag Milkha Bhaag","rating":"8.1"} 
+{"title":"Sairat","rating":"8.1"} 
+{"title":"Hera Pheri","rating":"8.1"} 
+{"title":"Sholay","rating":"8.1"} 
+{"title":"Maheshinte Prathikaaram","rating":"8.1"} 
+{"title":"Swades: We, the People","rating":"8.1"} 
+{"title":"Talvar","rating":"8.1"} 
+{"title":"Chak De! India","rating":"8.1"} 
+{"title":"Mughal-E-Azam","rating":"8.1"} 
+{"title":"Ustad Hotel","rating":"8.1"} 
+{"title":"Black","rating":"8.1"} 
+{"title":"Zindagi Na Milegi Dobara","rating":"8.1"} 
+{"title":"Jo Jeeta Wohi Sikandar","rating":"8.1"} 
+{"title":"Theeran adhigaaram ondru","rating":"8.1"} 
+{"title":"Nil Battey Sannata","rating":"8.1"} 
+{"title":"Chhichhore","rating":"8.1"} 
+{"title":"Drishyam","rating":"8.1"} 
+{"title":"Article 15","rating":"8.1"} 
+{"title":"Charulata","rating":"8.1"} 
+{"title":"Udaan","rating":"8.1"} 
+{"title":"A Wednesday","rating":"8.1"} 
+{"title":"Baasha","rating":"8.1"} 
+{"title":"Masaan","rating":"8.1"} 
+{"title":"Alai Payuthey","rating":"8.1"} 
+{"title":"Munna Bhai M.B.B.S.","rating":"8.1"} 
+{"title":"Sarfarosh","rating":"8.1"} 
+{"title":"Virumandi","rating":"8.1"} 
+{"title":"Queen","rating":"8.1"} 
+{"title":"Dil Chahta Hai","rating":"8.1"} 
+{"title":"Rang De Basanti","rating":"8.1"} 
+{"title":"OMG: Oh My God!","rating":"8.1"} 
+{"title":"Black Friday","rating":"8.4"} 
+{"title":"Uri: The Surgical Strike","rating":"8.1"} 
+{"title":"Roja","rating":"8.1"} 
+{"title":"Anbe Sivam","rating":"8.5"} 
+{"title":"Kahaani","rating":"8.1"} 
+{"title":"Lagaan: Once Upon a Time in India","rating":"8.1"} 
+{"title":"Andaz Apna Apna","rating":"8.1"} 
+{"title":"Lucia","rating":"8.1"} 
+{"title":"Barfi!","rating":"8.1"} 
+{"title":"Iqbal","rating":"8.1"} 
+{"title":"Bommarillu","rating":"8.1"} 
+{"title":"Pink","rating":"8.0"} 
+{"title":"Section 375","rating":"8.0"} 
+{"title":"The Legend of Bhagat Singh","rating":"8.1"} 
+{"title":"Shershaah","rating":"8.0"} 
+{"title":"Indian","rating":"8.0"} 
+{"title":"Bombay","rating":"8.0"} 
+{"title":"PK","rating":"8.1"} 
+{"title":"Maqbool","rating":"8.0"} 
+{"title":"Thadam","rating":"8.0"} 
+{"title":"Omkara","rating":"8.0"} 
+{"title":"The Great Indian Kitchen","rating":"8.0"} 
+{"title":"Lage Raho Munna Bhai","rating":"8.0"} 
+{"title":"Aruvi","rating":"8.2"} 
+{"title":"Pelli Choopulu","rating":"8.0"} 
+{"title":"Kshanam","rating":"8.0"} 
+{"title":"Deewaar","rating":"8.0"} 
+{"title":"Pranchiyettan and the Saint","rating":"8.0"} 
+{"title":"Naduvula Konjam Pakkatha Kaanom","rating":"8.0"} 
+{"title":"Padosan","rating":"8.0"} 
+{"title":"Gulaal","rating":"8.0"} 
+{"title":"Athadu","rating":"8.0"} 
+{"title":"Rangasthalam","rating":"8.0"} 
+{"title":"Dilwale Dulhania Le Jayenge","rating":"8.0"} 
+{"title":"Haider","rating":"8.0"} 
+{"title":"Baahubali 2: The Conclusion","rating":"8.0"} 
+{"title":"Thondimuthalum Dhriksakshiyum","rating":"8.0"} 
+{"title":"Padayappa","rating":"8.0"} 
+{"title":"K.G.F: Chapter 1","rating":"8.0"} 
+{"title":"Take Off","rating":"8.0"} 
+{"title":"Ugly","rating":"8.0"} 
+{"title":"Aadukalam","rating":"8.0"} 
+{"title":"Mother India","rating":"8.0"} 
+{"title":"Ulidavaru Kandanthe","rating":"7.9"} 
+{"title":"Special Chabbis","rating":"8.0"} 
+{"title":"Nayattu","rating":"7.9"} 
+{"title":"Ship of Theseus","rating":"7.9"} 
+{"title":"Badhaai ho","rating":"7.9"} 
+{"title":"Dev.D","rating":"7.9"} 
+{"title":"Jalsaghar","rating":"7.9"} 
+{"title":"Bajrangi Bhaijaan","rating":"7.9"} 
+{"title":"Deiva Thirumagal","rating":"7.9"} 
+{"title":"Gully Boy","rating":"7.9"} 
+{"title":"Vaaranam Aayiram","rating":"8.0"} 
+{"title":"Vaastav: The Reality","rating":"7.9"} 
+{"title":"Vedam","rating":"7.9"} 
+{"title":"Company","rating":"7.9"} 
+{"title":"Mukkabaaz","rating":"7.9"} 
+{"title":"Ankhon Dekhi","rating":"7.9"} 
+{"title":"Manjhi: The Mountain Man","rating":"7.9"} 
+{"title":"Pizza","rating":"7.9"} 
+{"title":"Karnan","rating":"7.9"} 
+{"title":"Charlie","rating":"7.9"} 
+{"title":"Arjun Reddy","rating":"7.9"} 
+{"title":"Memories","rating":"7.9"} 
+{"title":"Malik","rating":"7.9"} 
+{"title":"My Name Is Khan","rating":"7.9"} 
+{"title":"Kal Ho Naa Ho","rating":"7.9"} 
+{"title":"Border","rating":"7.9"} 
+{"title":"Dil Bechara","rating":"7.9"} 
+{"title":"Mumbai Police","rating":"7.9"} 
+{"title":"Ayyappanum Koshiyum","rating":"7.9"} 
+{"title":"Vinnaithaandi Varuvaayaa","rating":"7.9"} 
+{"title":"Super 30","rating":"7.9"} 
+{"title":"Sonchiriya","rating":"7.8"} 
+{"title":"Kaakha..Kaakha: The Police","rating":"7.8"} 
+{"title":"Unnaipol Oruvan","rating":"7.8"} 
+{"title":"Angamaly Diaries","rating":"7.8"} 
+{"title":"Bãhubali: The Beginning","rating":"7.8"} 
+{"title":"Lakshya","rating":"7.8"} 
+{"title":"Anjaam Pathiraa","rating":"7.8"} 
+{"title":"Padman","rating":"7.8"} 
+{"title":"Hey Ram","rating":"7.8"} 
+{"title":"Dor","rating":"7.8"} 
+{"title":"Baby","rating":"7.8"} 
+{"title":"Vettaiyaadu Vilaiyaadu","rating":"7.8"} 
+{"title":"English Vinglish","rating":"7.8"} 
+{"title":"Poove Unakkaga","rating":"7.8"} 
+{"title":"Hindi Medium","rating":"7.8"} 
+{"title":"Thulladha Manamum Thullum","rating":"7.8"} 
+{"title":"Okkadu","rating":"7.8"} 
+{"title":"Gangaajal","rating":"7.8"} 
+{"title":"Johnny Gaddaar","rating":"7.8"} 
+{"title":"Ab Tak Chhappan","rating":"7.8"} 
+{"title":"Manam","rating":"7.8"} 
+{"title":"The Lunchbox","rating":"7.8"} 
+{"title":"Pokiri","rating":"7.8"} 
+{"title":"Joji","rating":"7.8"} 
+{"title":"M.S. Dhoni: The Untold Story","rating":"7.8"} 
+{"title":"Secret Superstar","rating":"7.7"} 
+{"title":"Airlift","rating":"7.8"} 
+{"title":"Goodachari","rating":"7.7"} 
+{"title":"Vicky Donor","rating":"7.7"} 
+{"title":"Mimi","rating":"7.7"} 
+{"title":"Badla","rating":"7.8"} 
+{"title":"Nayak: The Real Hero","rating":"7.7"} 
+{"title":"Raazi","rating":"7.7"} 
+{"title":"Mr. India","rating":"7.7"} 
+{"title":"Stanley Ka Dabba","rating":"7.7"} 
+{"title":"Jab We Met","rating":"7.9"} 
+{"title":"Aayirathil Oruvan","rating":"7.7"} 
+{"title":"Velaiilla Pattadhari","rating":"7.7"} 
+{"title":"Don","rating":"7.7"} 
+{"title":"RangiTaranga","rating":"7.7"} 
+{"title":"Aligarh","rating":"7.7"} 
+{"title":"Veer-Zaara","rating":"7.7"} 
+{"title":"Udta Punjab","rating":"7.7"} 
+{"title":"Rock On!!","rating":"7.7"} 
+{"title":"Dasvidaniya","rating":"7.7"} 
+{"title":"Thuppakki","rating":"7.7"} 
+{"title":"Arya","rating":"7.7"} 
+{"title":"Oye Lucky! Lucky Oye!","rating":"7.7"} 
+{"title":"Kai po che!","rating":"7.7"} 
+{"title":"Kaththi","rating":"7.7"} 
+{"title":"24","rating":"7.7"} 
+{"title":"Samsara","rating":"7.7"} 
+{"title":"Ghilli","rating":"7.7"} 
+{"title":"Eega","rating":"7.6"} 
+{"title":"Rockstar","rating":"7.7"} 
+{"title":"Mumbai Meri Jaan","rating":"7.6"} 
+{"title":"Sir","rating":"7.6"} 
+{"title":"Darr","rating":"7.6"} 
+{"title":"Ko","rating":"7.7"} 
+{"title":"Avane Srimannarayana","rating":"7.6"} 
+{"title":"Guru","rating":"7.7"} 
+{"title":"Kapoor & Sons","rating":"7.6"} 
+{"title":"C U Soon","rating":"7.6"} 
+{"title":"The Tashkent Files","rating":"7.6"} 
+{"title":"Ugramm","rating":"7.6"} 
+{"title":"Earth","rating":"7.6"} 
+{"title":"Aamir","rating":"7.6"} 
+{"title":"Detective Byomkesh Bakshy!","rating":"7.6"} 
+{"title":"Madras Cafe","rating":"7.6"} 
+{"title":"Newton","rating":"7.6"} 
+{"title":"State of Siege: Temple Attack","rating":"7.6"} 
+{"title":"Agneepath","rating":"7.6"} 
+{"title":"Kabhi Haan Kabhi Naa","rating":"7.6"} 
+{"title":"Sarkar","rating":"7.6"} 
+{"title":"Neerja","rating":"7.6"} 
+{"title":"Kannum Kannum Kollaiyadithaal","rating":"7.6"} 
+{"title":"Baazigar","rating":"7.6"} 
+{"title":"Highway","rating":"7.6"} 
+{"title":"Magadheera","rating":"7.6"} 
+{"title":"Pyaar Ka Punchnama","rating":"7.6"} 
+{"title":"Bheja Fry","rating":"7.6"} 
+{"title":"1 - Nenokkadine","rating":"7.6"} 

@@ -6,67 +6,32 @@ const fse = require('fs-extra')
 
 const app = express()
 
-const url = 'https://www.theguardian.com/uk'
+// const url = 'https://www.goodreads.com/quotes'
+const url = 'https://www.imdb.com/india/top-rated-indian-movies/'
 
-// axios(url)
-//     .then(res => {
-//         const html = res.data
-//         const $ = cheerio.load(html)
-//         const articles = []
-
-//         $('.fc-item__title', html).each(function() {
-//             const title = $(this).text()
-//             const url = $(this).find('a').attr('href')
-
-//             articles.push({
-//                 title,
-//                 url
-//             })
-//         })
-//         console.log(articles)
-//         articles.forEach(article => {
-//             fse.appendFile('articles.txt', JSON.stringify(article) + ' \n', (err) => {
-//                 if(err) {
-//                     console.log(err)
-//                 } else {
-//                     console.log("success")
-//                 }
-//             })
-//         })
-//     })
-//     .catch(err => console.log(err))
-
-
-const ans = async () => {
+const scrape = async () => {
     const res = await axios(url)
     const html = res.data
     const $ = cheerio.load(html)
-    const articles = []
-
-    $('.fc-item__title', html).each(function() {
-        const title = $(this).text()
-        const url = $(this).find('a').attr('href')
-
-        articles.push({
-            title,
-            url
-        })
+    // console.log(html)
+    const movies = []
+    $('.lister-list > tr').each((index, element) => {
+        const title = $(element).find('.titleColumn').children().first().text().trim()
+        const rating = $(element).find('.ratingColumn').children().first().text()
+        movies[index] = {title, rating}
     })
-    // console.log(articles)
-
-    articles.forEach(article => {
-        fse.appendFile('articles.txt', JSON.stringify(article) + ' \n', (err) => {
-            if(err) {
-                console.log(err)
-            } else {
-                console.log("success")
-            }
-        })
+    let counter = 0;
+    movies.forEach(movie => {
+        fse.appendFile('movies.txt', JSON.stringify(movie) + ' \n')
+        counter++;
+        if(movies.length == counter){
+            console.log("Exported to txt file")
+        }
     })
 
-    console.log("The server will automatically close in 5 secs");
+    console.log("The server will automatically close in 5 secs.");
 }
-ans()
+scrape()
 
 setTimeout((function() {
     return process.exit(1);
